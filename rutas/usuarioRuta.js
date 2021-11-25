@@ -10,3 +10,5 @@ api.post('/login', usuarioControl.accesoUsuario);
 
 
 module.exports = api;
+
+//archivo de rutas
